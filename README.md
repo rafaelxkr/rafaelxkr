@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-barbosa2/)](https://www.linkedin.com/in/rafael-barbosa2/?target=_blank)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-barbosa2/)](https://www.linkedin.com/in/rafael-barbosa2/" target="_blank)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaxkr@gmail.com)](mailto:rafaxkr@gmail.com){:target="_blank"}
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black){:target="_blank"}
 ![Sharepoint](https://img.shields.io/badge/-Microsoft%20SharePoint-0078D4?style=flat&logo=Microsoft-SharePoint&logoColor=white){:target="_blank"}
