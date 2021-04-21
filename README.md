@@ -34,7 +34,7 @@ Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://i
 </a>    
 <!-------------------------------------------------------->
 
-## Estatísticas:
+## &#x1f4c8;Estatísticas:
 
 <br>
 <a href="https://github.com/rafaelxkr/rafaelxkr">
