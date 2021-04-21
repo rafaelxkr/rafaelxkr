@@ -60,6 +60,16 @@ Relatório de acompanhamento do [COVID em São Paulo](https://www.seade.gov.br/c
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxkr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+## Musica:
+
+<a href="https://music.youtube.com/playlist?list=PLZ1dJqY6KWOXGGeIlZqleztqta23wHMGG&feature=share">
+  <img align="center" src="https://user-images.githubusercontent.com/31570331/115625245-260ab580-a2d2-11eb-9236-0c6ccfc5e00b.png" width="120px"/>
+</a>
+
+<a href="https://music.youtube.com/playlist?list=RDCLAK5uy_m-MDUE1OeA3auVrqCRRXddgUAbdqW9F-c&feature=share">
+  <img align="center" src="https://user-images.githubusercontent.com/31570331/115626054-543cc500-a2d3-11eb-8e43-95f894f1e463.png" width="240px"/>
+</a>
+
 ## Fontes:
 * Icons: https://simpleicons.org/
 * GitHub Stats: https://github.com/anuraghazra/github-readme-stats
