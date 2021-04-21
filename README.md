@@ -1,8 +1,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-barbosa2/)](https://www.linkedin.com/in/rafael-barbosa2)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rafaxkr@gmail.com)](mailto:rafaxkr@gmail.com)
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
-![Sharepoint](https://img.shields.io/badge/-Microsoft%20SharePoint-0078D4?style=flat&logo=Microsoft-SharePoint&logoColor=white)
-![OneDrive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft-OneDrive&logoColor=white)
+![Sharepoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=Microsoft-SharePoint&logoColor=white)
+![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=flat&logo=Microsoft-OneDrive&logoColor=white)
 ![Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=white)
 
 # Oi tudo bem? <img src=https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif width="30px">
