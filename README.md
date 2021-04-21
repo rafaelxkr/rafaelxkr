@@ -67,7 +67,7 @@ Relatório de acompanhamento do [COVID em São Paulo](https://www.seade.gov.br/c
 </a>
 
 <a href="https://music.youtube.com/playlist?list=RDCLAK5uy_m-MDUE1OeA3auVrqCRRXddgUAbdqW9F-c&feature=share">
-  <img align="center" src="https://user-images.githubusercontent.com/31570331/115626054-543cc500-a2d3-11eb-8e43-95f894f1e463.png" width="240px"/>
+  <img align="center" src="https://user-images.githubusercontent.com/31570331/115626054-543cc500-a2d3-11eb-8e43-95f894f1e463.png" width="250px"/>
 </a>
 
 ## Fontes:
