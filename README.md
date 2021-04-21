@@ -8,6 +8,7 @@
 # Oi tudo bem? 👋
 Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-barbosa2/) utilizo a Power Platform da Microsoft para desenvolver minhas soluções, mas também estudo outras soluções que possam ser integradas. 
 
+![an-e-optimised1](https://user-images.githubusercontent.com/31570331/115615299-2a7ca180-a2c5-11eb-9eb0-d25eea70ae39.gif)
 
 ## Repositórios
 <!--
