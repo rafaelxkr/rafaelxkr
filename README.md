@@ -16,41 +16,35 @@ Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://i
 * [SQL](https://github.com/rafaelxkr/SQL)
 
 
-<a href="https://github.com/rafaelxkr/rafaelxkr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxkr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/rafaelxkr/rafaelxkr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelxkr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rafael Status" />
-</a>
-
+<!--------------------------- Repositorios ----------------->
 <a href="https://github.com/rafaelxkr/Power-BI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelxkr&repo=Power-BI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 
 <a href="https://github.com/rafaelxkr/Power-Automate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelxkr&repo=Power-Automate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
-<!-- links to social media icons -->
+<a href="https://github.com/rafaelxkr/VBA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelxkr&repo=VBA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-<!-- icons with padding -->
+<a href="https://github.com/rafaelxkr/SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelxkr&repo=SQL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+<!-------------------------------------------------------->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+<br>
 
-<!-- icons without padding -->
+<a href="https://github.com/rafaelxkr/rafaelxkr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxkr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<br>
 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+<a href="https://github.com/rafaelxkr/rafaelxkr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelxkr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rafael Stats" />
+</a>
 
 
 <!--
