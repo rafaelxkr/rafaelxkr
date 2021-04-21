@@ -5,7 +5,8 @@
 ![OneDrive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft-OneDrive&logoColor=white)
 ![Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=white)
 
-# Oi tudo bem? 👋
+# Oi tudo bem? <img src=https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif width="30px">
+
 Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-barbosa2/) utilizo a Power Platform da Microsoft para desenvolver minhas soluções, mas também estudo outras soluções que possam ser integradas. 
 
 ## Portifólio
