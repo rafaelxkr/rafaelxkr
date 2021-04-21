@@ -16,7 +16,7 @@ Power BI conectado com as API's do [Portal Brasileiro de Dados Abertos](https://
 [![image](https://user-images.githubusercontent.com/31570331/115617587-ee970b80-a2c7-11eb-8e9b-0be2644569a6.png)](https://app.powerbi.com/view?r=eyJrIjoiYjFhNWU4MjQtM2U5Ni00ODgxLWJhMDAtZmYxYTQ4YWM3ZWRjIiwidCI6IjI4ODAyMzA4LTM3OTgtNDI0Ni05NGIwLTM5NDhlZTJiMmQ4YiJ9)
 
 ### COVID-19 Estado de São Paulo
-Relatório de acompanhamento do COVID em Sâo Paulo com atualiazação diária, com histórico dos casos por cidade e regiões
+Relatório de acompanhamento do [COVID em São Paulo](https://www.seade.gov.br/coronavirus/) com atualiazação diária e com histórico dos casos por cidade.
 
 [![image](https://user-images.githubusercontent.com/31570331/115618237-ccea5400-a2c8-11eb-811d-909a8911d992.png)](https://app.powerbi.com/view?r=eyJrIjoiZmYwYjhmOWItYzFlNC00N2QyLWIxOGQtZDEyN2Q5MjY3NWVjIiwidCI6IjI4ODAyMzA4LTM3OTgtNDI0Ni05NGIwLTM5NDhlZTJiMmQ4YiJ9)
 
