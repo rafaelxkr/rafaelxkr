@@ -9,6 +9,12 @@
 Sou analista de BI, utilizo a Power Platform da Microsoft para desenvolver minhas soluções
 
 
+## Repositórios
+* [PowerBI](https://github.com/rafaelxkr/Power-BI)
+* [Power Auomate](https://github.com/rafaelxkr/Power-Automate)
+* [VBA](https://github.com/rafaelxkr/VBA)
+* [SQL](https://github.com/rafaelxkr/SQL)
+
 <!--
 **rafaelxkr/rafaelxkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
