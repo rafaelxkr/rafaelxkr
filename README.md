@@ -10,12 +10,12 @@ Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://i
 
 
 ## Repositórios
+<!--
 * [PowerBI](https://github.com/rafaelxkr/Power-BI)
 * [Power Auomate](https://github.com/rafaelxkr/Power-Automate)
 * [VBA](https://github.com/rafaelxkr/VBA)
 * [SQL](https://github.com/rafaelxkr/SQL)
-
-
+>
 <!--------------------------- Repositorios ----------------->
 <a href="https://github.com/rafaelxkr/Power-BI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelxkr&repo=Power-BI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -35,6 +35,7 @@ Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://i
 <!-------------------------------------------------------->
 
 <br>
+## Estatísticas
 
 <a href="https://github.com/rafaelxkr/rafaelxkr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelxkr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rafael Stats" />
