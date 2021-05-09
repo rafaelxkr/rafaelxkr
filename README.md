@@ -7,7 +7,7 @@
 
 # Oi tudo bem? <img src=https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif width="30px">
 
-Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-barbosa2/) utilizo a Power Platform da Microsoft para desenvolver minhas soluções, mas também estudo outras soluções que possam ser integradas. Para gerar insights e automatização de tarefas, criando um BI que se comunique com usuários cobrando de ações, com foco em facilitar e aumentar o engajamento para tomada de decisão baseada em dados.
+Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-barbosa2/) utilizo a Power Platform da Microsoft para desenvolver minhas soluções, mas também estudo outras soluções que possam ser integradas. Para gerar insights e automatização de tarefas, criando um BI que se comunique com usuários cobrando de ações, com foco em facilitar e aumentar o engajamento para tomada de decisão baseada em dados. [Clique Aqui para ver os artigos postados no Linkedin](https://www.linkedin.com/in/rafael-barbosa2/detail/recent-activity/posts/ "Artigos no Linkedin")
 
 ## Portifólio
 
