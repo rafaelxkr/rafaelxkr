@@ -4,6 +4,7 @@
 ![Sharepoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=Microsoft-SharePoint&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=flat&logo=Microsoft-OneDrive&logoColor=white)
 ![Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=white)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=rafaelxkr.rafaelxkr)
 
 # Oi tudo bem? <img src=https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif width="30px">
 
@@ -51,7 +52,7 @@ Relatório de acompanhamento do [COVID em São Paulo](https://www.seade.gov.br/c
 
 <br>
 <a href="https://github.com/rafaelxkr/rafaelxkr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelxkr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rafael Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelxkr&show_icons=true&line_height=27&count_private=true&title_color=0078D7&text_color=000000&icon_color=0062AD&bg_color=ffffff" alt="Rafael Stats" />
 </a>
 
 <br>
