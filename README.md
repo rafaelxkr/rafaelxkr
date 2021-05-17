@@ -62,7 +62,7 @@ Relatório de acompanhamento do [COVID em São Paulo](https://www.seade.gov.br/c
 <br>
 
 <a href="https://github.com/rafaelxkr/rafaelxkr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxkr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelxkr&title_color=000000&text_color=000000&icon_color=0078D7&bg_color=ffffff" />
 </a>
 
 ## Musica:
