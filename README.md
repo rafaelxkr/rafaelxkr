@@ -19,12 +19,12 @@ Sou Rafael analista de BI, também posso ser encontrado no ![Linkedin](https://i
 ### Mercado Financeiro:
 Power BI conectado com as API's do [Portal Brasileiro de Dados Abertos](https://dados.gov.br/dataset?tags=API) com atualização diaria de Cambio, IPCA, SELIC.
 
-[![image](https://user-images.githubusercontent.com/31570331/115617587-ee970b80-a2c7-11eb-8e9b-0be2644569a6.png)](https://app.powerbi.com/view?r=eyJrIjoiYjFhNWU4MjQtM2U5Ni00ODgxLWJhMDAtZmYxYTQ4YWM3ZWRjIiwidCI6IjI4ODAyMzA4LTM3OTgtNDI0Ni05NGIwLTM5NDhlZTJiMmQ4YiJ9)
+[![Mercado Financeiro](https://user-images.githubusercontent.com/31570331/118584620-b9b69100-b76d-11eb-8e79-b3bc1a472acc.gif)](https://app.powerbi.com/view?r=eyJrIjoiYjFhNWU4MjQtM2U5Ni00ODgxLWJhMDAtZmYxYTQ4YWM3ZWRjIiwidCI6IjI4ODAyMzA4LTM3OTgtNDI0Ni05NGIwLTM5NDhlZTJiMmQ4YiJ9 "Clique aqui para acessar o relatório")
 
 ### COVID-19 Estado de São Paulo
 Relatório de acompanhamento do [COVID em São Paulo](https://www.seade.gov.br/coronavirus/) com atualiazação diária e com histórico dos casos por cidade.
 
-[![image](https://user-images.githubusercontent.com/31570331/115618237-ccea5400-a2c8-11eb-811d-909a8911d992.png)](https://app.powerbi.com/view?r=eyJrIjoiZmYwYjhmOWItYzFlNC00N2QyLWIxOGQtZDEyN2Q5MjY3NWVjIiwidCI6IjI4ODAyMzA4LTM3OTgtNDI0Ni05NGIwLTM5NDhlZTJiMmQ4YiJ9)
+[![image](https://user-images.githubusercontent.com/31570331/115618237-ccea5400-a2c8-11eb-811d-909a8911d992.png)](https://app.powerbi.com/view?r=eyJrIjoiZmYwYjhmOWItYzFlNC00N2QyLWIxOGQtZDEyN2Q5MjY3NWVjIiwidCI6IjI4ODAyMzA4LTM3OTgtNDI0Ni05NGIwLTM5NDhlZTJiMmQ4YiJ9 "Clique aqui para acessar o relatório")
 
 
 ## Repositórios
