@@ -82,3 +82,4 @@ Relatório de acompanhamento do [COVID em São Paulo](https://www.seade.gov.br/c
 * HTML Emojis: https://www.fileformat.info/index.htm
 * Shields: https://shields.io/
 * Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+* CheatSheets: https://github.com/laylacomparin/CheatSheets/blob/main/README.md#cheatsheets-
