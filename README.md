@@ -4,7 +4,9 @@
 ![Sharepoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=Microsoft-SharePoint&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=flat&logo=Microsoft-OneDrive&logoColor=white)
 ![Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=white)
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=rafaelxkr.rafaelxkr)
+![C#](https://img.shields.io/badge/-Script_C-512BD4?style=flat&logo=c%23&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white)
+
 
 # Oi tudo bem? <img src=https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif width="30px">
 
